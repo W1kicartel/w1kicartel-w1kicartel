@@ -49,4 +49,4 @@ Verticals: restaurants · B&Bs · retail · professional services
 
 ---
 
-* Italy*
+* Italy
