@@ -30,14 +30,14 @@ Customer-facing AI assistant for a Campania winery. Handles product questions, v
 
 ---
 
-## AgentFlow
+## AIgentFlow
 
-I run **AgentFlow**, an AI automation micro-agency targeting Italian SMBs. The model: scoped pilots (4–6 weeks), measurable output, no bloated retainers.
+I run **AIgentFlow**, an AI automation micro-agency targeting Italian SMBs. The model: scoped pilots (4–6 weeks), measurable output, no bloated retainers.
 
 Verticals: restaurants · B&Bs · retail · professional services
 
-→ [agentflow.it](https://agentflow.it) *(coming soon)*
-→ gianluca@agentflow.it
+→ [AIgentflow.cloud](https://agentflow.cloud) *(coming soon)*
+
 
 ---
 
@@ -49,4 +49,4 @@ Verticals: restaurants · B&Bs · retail · professional services
 
 ---
 
-*Milan, Italy*
+* Italy *
