@@ -1,5 +1,3 @@
-# Gianluca Perrini
-
 **AI Automation Engineer** — building agentic workflows for Italian SMBs.
 
 I design and deploy end-to-end automation systems that replace manual processes with AI-driven pipelines: WhatsApp booking bots, CRM integrations, content pipelines, and customer-facing AI agents. Currently focused on the restaurant, hospitality, and retail verticals.
